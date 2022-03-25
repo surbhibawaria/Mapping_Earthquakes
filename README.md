@@ -24,4 +24,4 @@ Finally, to illustrate the relationship between the location and frequency of se
 
 ## Earthquake Map 3: Additional Map
 
-<img width="1312" alt="Earthquake_Map3" src="https://user-images.githubusercontent.com/95826875/160215141-a1e5b91a-4bfc-4589-b438-accfef5cf4a9.png">
+<img width="1314" alt="Earthequake_Map3" src="https://user-images.githubusercontent.com/95826875/160215224-47000244-0c9e-4725-969a-e094fc449d0b.png">
