@@ -12,16 +12,17 @@ On the map, the magnitude and location of each earthquake will be shown in a pop
 
 Finally, to illustrate the relationship between the location and frequency of seismic activity and tectonic plates, fault lines are added on the map and the earthquakes with a magnitude greater than 4.5 on the map.
 
-## Earthquake Map 1: Tectonic Plate Data
+
+### Earthquake Map 1: Tectonic Plate Data
 
 <img width="1313" alt="Earthquake_Map1" src="https://user-images.githubusercontent.com/95826875/160215130-1bb3e8a2-737e-467e-ac51-727ca31630cf.png">
 
 
-## Earthquake Map 2: Major Earthquake Data
+### Earthquake Map 2: Major Earthquake Data
 
 <img width="1314" alt="Earthquake_Map2" src="https://user-images.githubusercontent.com/95826875/160215136-185b0793-37b2-4429-bd23-877e4766dfa0.png">
 
 
-## Earthquake Map 3: Additional Map
+### Earthquake Map 3: Additional Map
 
 <img width="1314" alt="Earthequake_Map3" src="https://user-images.githubusercontent.com/95826875/160215224-47000244-0c9e-4725-969a-e094fc449d0b.png">
